@@ -34,4 +34,6 @@ DVCS :
  - Able to handle large projects with speed and data size
 
 A directory containing 3 files -> we stage all and commit ->git crates checksums for each and refers to it as blobs
+
+hii how r u
  
